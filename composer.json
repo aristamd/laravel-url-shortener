@@ -1,5 +1,5 @@
 {
-    "name": "laracrafts/laravel-url-shortener",
+    "name": "aristamd/laravel-url-shortener",
     "description": "Powerful URL shortening tools in Laravel",
     "keywords": [
         "laravel",
@@ -24,8 +24,8 @@
         }
     ],
     "require": {
-        "php": "^7.1",
-        "guzzlehttp/guzzle": "^6.2",
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.0.1",
         "guzzlehttp/promises": "^1.0",
         "guzzlehttp/psr7": "^1.4",
         "illuminate/support": "^5.1 || ^6.0",
